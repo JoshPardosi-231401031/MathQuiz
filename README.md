@@ -44,8 +44,3 @@ Tujuan utama aplikasi ini adalah menyediakan pengalaman belajar yang menyenangka
 Aplikasi ini menggunakan beberapa aset gratis dengan lisensi bebas atribusi, di antaranya:
 - Ikon dari [Icons8](https://www.figma.com/community/plugin/791103617505812222)
 - Font: [Inter]([https://fonts.google.com/specimen/Poppins](https://fonts.google.com/specimen/Inter))  
-
-## 🚀 Cara Menjalankan Proyek
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/math_quiz.git
