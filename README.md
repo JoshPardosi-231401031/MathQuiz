@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/f4e9e6c6-dc47-45ee-a1e5-63729486118c
 
 
 ## 🎨 Link Mockup / Prototype Aplikasi
-[Figma Prototype – MathQuiz](https://www.figma.com/proto/...)  
+[Figma Prototype – MathQuiz](https://www.figma.com/design/kByuLEXRhzTSXmAUWtOSYd/Math?node-id=7-46&t=ruWTJ5aMuqU14YyS-1)
 https://fonts.google.com/specimen/Inter
 
 ## 🙏 Credit
